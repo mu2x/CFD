@@ -1,5 +1,6 @@
 # CFD
-## This is for CFD Class
+## Jupyter server (For computing)
+https://utep.zrenix.com:8000/
 
 # git push/pull via ssh:
 - ssh-keygen #generate ssh-key
