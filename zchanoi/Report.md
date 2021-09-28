@@ -1,4 +1,4 @@
-## FVM Modeling of Multi-material SLS Printing 
+## 2D FVM Modeling of Multi-material SLS Printing 
 ### Abstract 
 ### Introduction 
 ### Methodology 
