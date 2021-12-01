@@ -98,6 +98,19 @@ The FVM is successfully applied to solve a steady state diffusion problem with a
 
 <div style="page-break-after: always;"></div>
 
+## References
+
+[1] Kumar, V. (2021). Fundamentals of Computational Fluid Dynamics. The University of Texas El Paso. Deptartment of Mechanical Engineering. 
+
+[2] Versteeg, H. K., &amp; Malalasekera, W. (2007). An introduction to computational fluid dynamics: The Finite Volume Approach (Second). Prentice Hall.  
+
+[3] Moukalled, F., Mangani, L., &amp; Darwish, M. (2016). The finite volume method in Computational Fluid Dynamics: An advanced introduction with openfoam and Matlab. Springer. 
+
+[4] Shukla, A., Singh, A. K., &amp; Singh, P. (2012). A comparative study of finite volume method and finite difference method for convection-diffusion problem. American Journal of Computational and Applied Mathematics, 1(2), 67–73. https://doi.org/10.5923/j.ajcam.20110102.13 
+
+[5] Massachusetts Institute of Technology. (n.d.). Chapter 16 Finite Volume Methods. Retrieved November 29, 2021, from http://web.mit.edu/16.90/BackUp/www/pdfs/Chapter16.pdf. 
+
+<div style="page-break-after: always;"></div>
 
 ## Apendix
 
@@ -173,14 +186,3 @@ print(d)
 
 <div style="page-break-after: always;"></div>
 
-## References
-
-[1] Kumar, V. (2021). Fundamentals of Computational Fluid Dynamics. The University of Texas El Paso. Deptartment of Mechanical Engineering. 
-
-[2] Versteeg, H. K., &amp; Malalasekera, W. (2007). An introduction to computational fluid dynamics: The Finite Volume Approach (Second). Prentice Hall.  
-
-[3] Moukalled, F., Mangani, L., &amp; Darwish, M. (2016). The finite volume method in Computational Fluid Dynamics: An advanced introduction with openfoam and Matlab. Springer. 
-
-[4] Shukla, A., Singh, A. K., &amp; Singh, P. (2012). A comparative study of finite volume method and finite difference method for convection-diffusion problem. American Journal of Computational and Applied Mathematics, 1(2), 67–73. https://doi.org/10.5923/j.ajcam.20110102.13 
-
-[5] Massachusetts Institute of Technology. (n.d.). Chapter 16 Finite Volume Methods. Retrieved November 29, 2021, from http://web.mit.edu/16.90/BackUp/www/pdfs/Chapter16.pdf. 
